@@ -6,7 +6,7 @@ a{
     font-family: 'Anton', sans-serif;
 }
 .banner{
-    background-image: url(/Portfolio/images/ironman\ face3.jpg);
+    background-image: url(../images/ironman\ face3.jpg);
     background-image: cover;
     background-repeat: no-repeat;
     padding: 200px 0;
